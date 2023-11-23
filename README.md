@@ -312,9 +312,5 @@ margin-right: auto;
 ![Alt text](hospital.4.png)
 ![Alt text](vit.5.png)
 
-
-## HTML VALIDATOR
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
