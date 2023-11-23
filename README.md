@@ -310,7 +310,7 @@ margin-right: auto;
 ![Alt text](temple.2.png)
 ![Alt text](home.3.png)
 ![Alt text](hospital.4.png)
-![Alt text](vit.5.png)
+![Alt text](vit.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
